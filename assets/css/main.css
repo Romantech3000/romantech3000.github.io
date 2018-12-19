@@ -68,7 +68,7 @@ body {
 .header {
     height: 800px;
     background: url(../images/slider-img.jpg) 1px 0px/1366px 800px no-repeat;
-    overflow: hide;
+    overflow: hidden;
 }
 
 .header-nav {
